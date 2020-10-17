@@ -2,4 +2,4 @@ Hello world
 
 newchanges
 
-new
+new changes in thoird file
